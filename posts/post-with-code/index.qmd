@@ -1,9 +1,0 @@
----
-title: "Neural Style Transfer in PyTorch"
-author: "Akshat Goel"
-date: "2023-12-24"
-categories: [news, code, analysis]
-image: "image.jpg"
----
-
-

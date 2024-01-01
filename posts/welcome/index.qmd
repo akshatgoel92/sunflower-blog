@@ -1,5 +1,5 @@
 ---
-title: Welcome To My Blog
+title: Welcome To My Blog!
 author: Akshat Goel
 date: '2024-01-01'
 categories:
@@ -24,15 +24,15 @@ There are existing frameworks, like Hugging Face, that already make this very ea
 
 - In my experience with these libraries, it is difficult to get a low-level understanding of how a particular model works. Without this low-level understanding, I am hacking together random components on my projects just to get things going, which is not very intellectually satisfying.
 
-- LinkedIn is full of unverified claims about what foundation models are capable of. It is very difficult to separate the signal from the noise. This is my way of actually simplifying and figuring out for myself what to believe and what not to believe.
+- LinkedIn is full of unverified claims about what foundation models are capable of. It is very difficult to separate the signal from the noise. Papers do not seem to get properly reviewed in the same way that they were six years ago. This is my way of actually simplifying and figuring out for myself what to believe and what not to believe.
 
-- As machine learning systems become more capable, my perspective is that there need to be easy and transparent ways to understand the limitations and costs of deep learning models. I am uncomfortable with the increasingly likely reality that important decisions (whether you get a loan or not, what your insurance premium should be, whether you make it through airport security, whether you get access to rations from the government PDS shop) with real consequences will be taken by procedures which are largely black-boxes.
+- As machine learning systems become more capable, there need to be easy and transparent ways to understand the limitations and costs of deep learning models, so that these can be publicly discussed by diverse stakeholders. I am uncomfortable with the increasingly likely reality that important decisions (whether you get a loan or not, what your insurance premium should be, whether you make it through airport security, whether you get access to rations from the government PDS shop) with real consequences will be taken by procedures which are largely black-boxes.
 
 House rules for myself as a build the library:
 
 - It has to be as simple as possible.
 - Every model will have an annotated notebook that will explain each part of the code.
-- The annotated notebook associated with each model will also explain try to explain the history, source, and limitations of each model.
+- The annotated notebook associated with each model will also explain the history, source, and limitations of each model.
 - Each notebook will try to cut through the hype.
 - Every model will have an associated Docker image for training and for deployment.
 

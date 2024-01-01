@@ -3,3 +3,4 @@
 /.quarto/
 */.ipynb_checkpoints/
 posts/welcome/.ipynb_checkpoints/
+*.ipynb_checkpoints/
