@@ -1,10 +1,22 @@
 ---
-title: "About"
+title: About
 image: profile.jpg
 about:
   template: jolla
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.0
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
 ---
+
 Welcome to my blog! This is a place for me to collect my thoughts.
 I am more likely to finish reading the books or articles that I start
-if I write about them here. This may save me from disengaging from the world 
-entirely. I hope you enjoy reading these posts!
+if I write about them here. This may just save me from disengaging from the world 
+entirely, though whether that is a good thing or not is difficult to tell. I hope you enjoy reading these posts!
