@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: d5d01e3e-24b5-45fa-9871-cb8d6880ec82
+      url: 'https://inspiring-nougat-8e1b63.netlify.app'
