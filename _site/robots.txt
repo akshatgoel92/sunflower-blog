@@ -1,1 +1,1 @@
-Sitemap: https://inspiring-nougat-8e1b63.netlify.app/sitemap.xml
+Sitemap: https://nasa-openscapes.github.io/sitemap.xml

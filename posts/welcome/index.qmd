@@ -3,7 +3,7 @@ title: Welcome To My Blog!
 author: Akshat Goel
 date: '2024-01-01'
 categories:
-  - news
+  - misc
 jupyter:
   jupytext:
     text_representation:
