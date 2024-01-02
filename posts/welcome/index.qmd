@@ -28,7 +28,7 @@ There are existing frameworks, like Hugging Face, that already make this very ea
 
 - As machine learning systems become more capable, there need to be easy and transparent ways to understand the limitations and costs of deep learning models, so that these can be publicly discussed by diverse stakeholders. I am uncomfortable with the increasingly likely reality that important decisions (whether you get a loan or not, what your insurance premium should be, whether you make it through airport security, whether you get access to rations from the government PDS shop) with real consequences will be taken by procedures which are largely black-boxes.
 
-House rules for myself as a build the library:
+House rules for myself as I build the library:
 
 - It has to be as simple as possible.
 - Every model will have an annotated notebook that will explain each part of the code.
